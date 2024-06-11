@@ -1,1 +1,2 @@
-# Capstone_Project_BFSI
+# BFSI-Capstone-Project---UpGrad
+BFSI Capstone Project - UpGrad
